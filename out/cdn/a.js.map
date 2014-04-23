@@ -1,0 +1,1 @@
+{"version":3,"file":"out/cdn/a.js","sources":["out/s/X.js","out/s/bootstrap.js","out/s/x0.js"],"names":[],"mappings":"AAAA;AACA;CCDA;AACA;CCDA;AACA","sourcesContent":["window.X = true;\n","window.bootstrap = true;\n","window.x0 = true;\n"]}
